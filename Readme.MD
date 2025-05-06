@@ -2,7 +2,7 @@
 
 **Descrição do Desafio**
 
-O desafio consiste em criar um programa em Java para gerenciar informações de ninjas utilizando o conceito de herança. [cite: 2] O programa deve envolver a criação de uma classe base chamada `Ninja` e uma subclasse chamada `Uchiha`. [cite: 2]
+O desafio consiste em criar um programa em Java para gerenciar informações de ninjas utilizando o conceito de herança. O programa deve envolver a criação de uma classe base chamada `Ninja` e uma subclasse chamada `Uchiha`.   
 
 **Requisitos:**
 
